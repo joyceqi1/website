@@ -19,6 +19,8 @@ class Migration(migrations.Migration):
                 ('sfid', models.IntegerField(primary_key=True, serialize=False, unique=True)),
                 ('phone', models.IntegerField(blank=True, null=True)),
                 ('emial', models.EmailField(blank=True, max_length=254, null=True)),
+            #     this is a git test word
+            #     1
             ],
         ),
     ]
