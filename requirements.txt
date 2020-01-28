@@ -22,7 +22,7 @@ douyu==0.1.2
 easydict==1.7
 entrypoints==0.2.3
 enum34==1.1.6
-feedgen==0.5.1
+feedgen==0.9.0
 future==0.16.0
 html5lib==0.9999999
 hyperlink==17.3.0
