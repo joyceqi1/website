@@ -17,7 +17,7 @@ cycler==0.10.0
 danmu==1.0.5
 danmu.fm==0.3.6
 decorator==4.1.2
-Django==2.0.2
+Django==2.2.10
 douyu==0.1.2
 easydict==1.7
 entrypoints==0.2.3
