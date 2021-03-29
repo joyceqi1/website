@@ -76,7 +76,7 @@ pyasn1-modules==0.0.9
 pycparser==2.18
 PyDispatcher==2.0.5
 pygame==1.9.3
-Pygments==2.2.0
+Pygments==2.7.4
 pyHook==1.5.1
 pyinstall==0.1.4
 PyInstaller==3.3
